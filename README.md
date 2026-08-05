@@ -7,8 +7,7 @@ balance, alert, and dashboard figure recalculates instantly.
 
 > **Demonstration copy — safe to publish.** All staff names, email addresses, vendor
 > names, branch names, and the organisation name are synthetic placeholders. Staff are
-> `Lastname###, Firstname###` and emails resolve to `example.com`. No real person,
-> employer, or supplier is identified. Quantities, dates, rates, and costs are retained
+> `Lastname###, Firstname###` and emails resolve to `example.com`.No real person, employer, patient, or supplier is identified, and no personal health information of any kind is present. Quantities, dates, rates, and costs are retained
 > so the formula logic can be demonstrated end to end.
 
 ---
