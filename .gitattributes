@@ -1,0 +1,1 @@
+*.xlsx binary *.xlsx -diff *.xlsx -merge
