@@ -163,10 +163,20 @@ open it, but conditional-formatting fidelity and the mailto links are not guaran
 ## Licence
 
 MIT — see [LICENSE](LICENSE).
-
-<!--
 ## Screenshots
+
+**Dashboard** — headline inventory position, alert counts, exposure, and built-in data-integrity checks.
+
 ![Dashboard](docs/screenshots/dashboard.png)
-![Expiry alerts](docs/screenshots/alerts-expiry.png)
+
+**Item Balance** — per-item quantity and value on hand, stock status, earliest expiring lot, and the next lot to issue.
+
+![Item Balance](docs/screenshots/item-balance.png)
+
+**Lot Balance** — per-lot FEFO allocation with days to expiry and the recorded-vs-suggested variance check.
+
 ![Lot balance with FEFO variance](docs/screenshots/lot-balance.png)
--->
+
+**Alerts – Expiry** — lots inside the alert window or already expired, with value at risk and how many staff received each lot.
+
+![Expiry alerts](docs/screenshots/alerts-expiry.png)
